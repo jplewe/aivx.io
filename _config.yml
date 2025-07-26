@@ -1,0 +1,5 @@
+title: My Dev Site
+description: Projects, blog, and thoughts
+theme: minima
+minima:
+  skin: dark
