@@ -18,9 +18,9 @@ Now I'm building my [ideal platform for rapid game/app dev](/engine/) to get me 
 - designed to be easy to interact with by coding AIs (because everything is done in code)
 - shippable-quality polish from the beginning of a project, especially in terms of ui
 
-The engine itself won't be released anytime soon, but the first simple game is getting close to a shippable state. I've been building a wide range of projects simultaneously as I build out the core features of the engine, to help ensure I only add what I actually need. I'll finish up this post with a quick first peek at two of them:
+The engine itself won't be released anytime soon, but the first game is nearing a shippable demo. It's one of the many, wide-ranging projects I've been working on simultaneously as I build out the core features of the engine; here's a quick peek at two of them:
 
-[AIVX PUSH](/push/) is the first game I'm releasing with the engine, hopefully in a few months. It's an arcade puzzle game inspired by Lumines and Tetris Effect, with trippy ever-changing procedural visuals and a new mechanic, which I first prototyped many years ago in Unity.
+[AIVX PUSH](/push/) is the first game I'm releasing with the engine, hopefully in a few months. It's an arcade puzzle game inspired by Lumines and Tetris Effect, with trippy ever-changing procedural visuals and an innovative puzzle mechanic which I first prototyped many years ago in Unity.
 
 [AIVX CITY](/city/) is one of my experimentations with creating a metaverse. It's an infinite cyberpunk city generator, full of AI-controlled characters you can chat with, play games with, and who can play roles in generated quests. Since all my games are generated at runtime with no additional cost to install size, performance, etc., it's an ideal platform for a metaverse, and any of my other games can be launched within the City.
 
