@@ -5,7 +5,8 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
-
-header_pages:
-  - about.md
-  - blog.md
+  header_links:
+    - title: "About"
+      url: /about/
+    - title: "Blog"
+      url: /blog/
