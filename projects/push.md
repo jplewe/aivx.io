@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Push
+title: PUSH
 permalink: /push/
 nav_exclude: true
 ---
