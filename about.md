@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About Me
 
-I’m John Plewe, a creative software developer and occasional game designer. Most of my work has been at [Nevercenter](nevercenter.com) as part of a three-person team (two devs). A good place to get an overview of my various awards, achievements, etc. is via [LinkedIn](https://www.linkedin.com/in/johnplewe/) (feel free to add me there), though it doesn't include some fun life highlights like getting surprise-offered a job by Valve's Gabe Newell in his office full of knives, or flown out by Apple to develop CameraBag on heavily-secured iPads at their HQ pre-launch.
+I’m John Plewe, a creative software developer and occasional game designer. Most of my work has been at [Nevercenter](nevercenter.com) as part of a three-person team (two devs). A good place to get an overview of my various awards, achievements, etc. is via [LinkedIn](https://www.linkedin.com/in/johnplewe/) (feel free to add me there, my friend count is dismal), though it doesn't include some fun life highlights like getting surprise-offered a job by Valve's Gabe Newell in his office full of knives, or flown out by Apple to develop CameraBag on heavily-secured iPads at their HQ pre-launch.
 
 ### About AIVX
 
