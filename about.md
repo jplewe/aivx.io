@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+### About Me
 
-I’m a developer working on a new kind of 3D engine that combines procedural generation with AI.  
-I love building tools that empower creativity and streamline world-building.
+I’m John Plewe, a creative software developer and occasional game designer. Most of my work has been at [Nevercenter](nevercenter.com) as part of a three-person team (two devs). A good place to get an overview of my various awards, achievements, etc. is via [LinkedIn](https://www.linkedin.com/in/johnplewe/) (feel free to add me there), though it doesn't include some fun life highlights like getting surprise-offered a job by Valve's Gabe Newell in his office full of knives, or flown out by Apple to develop CameraBag on heavily-secured iPads at their HQ pre-launch.
 
-# About the Company
+### About AIVX
 
-**AIVX** is a solo venture focused on generative technologies for games, simulation, and media.  
-We’re building tools that make entire worlds — cities, games, and apps — generate themselves.
+**AIVX** is my new solo company/label for my creative work. For now, it's focused around the new generative 3D engine I'm developing, which I'll use to build games, creative tools, virtual worlds, live DJ visualization apps, and much more. I'm very excited to get going with it. 
+
+If you're curious about the name itself, it comes from a project naming convention I found myself using (_ax for audio experiments, _ix for interactive, _vx for visual). I wanted to follow the xkcd theory of naming. I also wanted something short and unique enough that I could stick it in front of all my app names and not have to think too hard about coming up with names. Mission accomplished.
