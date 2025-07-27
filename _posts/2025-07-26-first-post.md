@@ -4,7 +4,7 @@ title: "First Post: What I'm Building"
 date: 2025-07-26
 ---
 
-You can check out my [About}(/about/) page for more info on me, but long story short: I'm a creative software dev (https://nevercenter.com) and occasional game designer who has long been annoyed by the complicated pipeline required for game dev. 
+You can check out my [About](/about/) page for more info on me, but long story short: I'm a creative software dev (https://nevercenter.com) and occasional game designer who has long been annoyed by the complicated pipeline required for game dev. 
 
 What I'm building is the ideal dev platform for me: 
 - entirely code-based (C#), no gui 
