@@ -7,6 +7,5 @@ minima:
   skin: dark # or auto if you want it to switch with your system settings.
 
 header_pages:
-  - index.md
   - about.md
-  - blog.html
+  - blog.md
