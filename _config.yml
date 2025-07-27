@@ -6,7 +6,7 @@ plugins:
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
   nav_pages:
-      - projects.md
+      - /projects/
       - blog.md
       - about.md
  
