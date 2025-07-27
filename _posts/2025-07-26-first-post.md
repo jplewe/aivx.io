@@ -6,15 +6,16 @@ date: 2025-07-26
 
 (Note: this post is a live draft, and will likely be edited.)
 
-You can check out my [About](/about/) page for more info on me, but long story short: I'm a [creative software dev](https://nevercenter.com) and [occasional game designer](https://www.metacritic.com/game/shibuya/) who has long been annoyed by the complicated pipeline required for game dev. I have a backlog of 100+ game designs I'd like to create, and before the last few years I assumed it would be impossible to get anywhere near that number.
+You can check out my [About](/about/) page for more info on me, but long story short: I'm a [creative software dev](https://nevercenter.com) and [occasional game designer](https://www.metacritic.com/game/shibuya/) who's long been put off by the slow, complex, and painful method of game dev in popular game engines. I've built up a backlog of 100+ game designs I'd like to create, and before the advancements of the past few years I assumed it would be impossible to get anywhere near that number.
 
-Now I'm building my [ideal platform for rapid gamedev](/engine/) to get me to 100: 
-- entirely code-based (C#), no gui 
-- fully generative at runtime via procgen and ai, with almost zero external assets required
-- full creative control, ai element is llms guiding procgen, rather than diffusion-based generation
+Now I'm building my [ideal platform for rapid game/app dev](/engine/) to get me to 100: 
+- entirely code-based (C#), no gui. all you need is 1 coder (human or ai) to make a game
+- everything is generated at runtime via procgen and ai, no complex asset pipeline or external apps
+- full creative control: the ai aspect is llm-guiding procgen, rather than diffusion-based generation
 - single codebase deployable across steam/consoles, mobile, AR/VR, and eventually web
-- built atop Godot (essentially using it as a library)
-- suitable for making apps as well as games
+- built atop Godot (essentially using it as a library) for constant free updates
+- designed for building apps as well as games
+- designed to be easy to interact with by coding AIs (because everything is done in code)
 - shippable-quality polish from the beginning of a project, especially in terms of ui
 
 The engine itself won't be released anytime soon, but the first simple game is getting close to a shippable state. I've been building a wide range of projects simultaneously as I build out the core features of the engine, to help ensure I only add what I actually need. I'll finish up this post with a quick first peek at two of them:
