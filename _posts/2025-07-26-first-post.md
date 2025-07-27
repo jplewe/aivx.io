@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post: What I'm Building"
+title: "first post: what I'm building"
 date: 2025-07-26
 ---
 
@@ -10,10 +10,11 @@ You can check out my [About](/about/) page for more info on me, but long story s
 
 Now I'm building my [ideal platform for rapid gamedev](/engine/) to get me to 100: 
 - entirely code-based (C#), no gui 
-- fully generative at runtime via procgen and ai, with almost zero external assets required 
+- fully generative at runtime via procgen and ai, with almost zero external assets required
+- full creative control, ai element is llms guiding procgen, rather than diffusion-based generation
 - single codebase deployable across steam/consoles, mobile, AR/VR, and eventually web
 - built atop Godot (essentially using it as a library)
-- suitable for games, but also apps
+- suitable for making apps as well as games
 - shippable-quality polish from the beginning of a project, especially in terms of ui
 
 The engine itself won't be released anytime soon, but the first simple game is getting close to a shippable state. I've been building a wide range of projects simultaneously as I build out the core features of the engine, to help ensure I only add what I actually need. I'll finish up this post with a quick first peek at two of them:
