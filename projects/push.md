@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PUSH
+title: AIVX PUSH
 permalink: /push/
 nav: false
 ---
 
-I’m a developer focused on building fully-generative 3D engines that blend procedural generation with AI tools. ksdfhsk
+It's a good game.
