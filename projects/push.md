@@ -5,4 +5,4 @@ permalink: /push/
 nav: false
 ---
 
-It's a good game.
+Page coming soon.
