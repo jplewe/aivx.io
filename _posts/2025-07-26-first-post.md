@@ -24,3 +24,6 @@ Push is the first game I'm releasing with the engine, an arcade puzzle game insp
 
 City is an early prototype, my experimentation with a metaverse of sorts. It's an infinite cyberpunk city generator, full of AI-controlled characters you can chat with, play games with, and who can play roles in generated quests.
 
+These are just the first steps in what I expect to be a long, fast journey. Long because it'll be many years, and fast because of how many projects I'll be able to release per year once the core of the engine is ready.
+
+In terms of funding and how I plan to get there, I'm contemplating a few roads. There's a compelling case for a VC-scale venture to be made, but I'm also open to working on a smaller scale with a publisher, or bootstrapping one project at a time on my own. Obviously that last one is the default, and I'm treating it as Plan A. (If you are a source of funding, feel free to email me at funding -at- aivx.io. I'm bad at answering emails, but better at those ones...)
