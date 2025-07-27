@@ -14,3 +14,13 @@ I’m John Plewe, a creative software developer and occasional game designer. Mo
 **AIVX** is my new solo company and label for my creative work. For now, it's focused around the new generative 3D engine I'm developing, which I'll use to build games, creative tools, virtual worlds, live DJ visualization apps, a holodeck, and much more. I'm very excited to get going with it. I have accounts on [X](x.com/aivx_io) and Instagram.
 
 If you're curious about the name itself, it comes from a project naming convention I found myself using (_ax for audio experiments, _ix for interactive, _vx for visual). I wanted to follow the xkcd theory of naming. I also wanted something short and unique enough that I could stick it in front of all my app names and not have to think too hard about coming up with names. Mission accomplished.
+
+### posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> – {{ post.date | date: "%B %-d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
