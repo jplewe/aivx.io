@@ -4,12 +4,12 @@ title: about
 permalink: /about/
 ---
 
-### About Me
+### about me
 
 I’m John Plewe, a creative software developer and occasional game designer. Most of my work has been at [Nevercenter](https://nevercenter.com) as part of a three-person startup (two devs). A good place to get an overview of my various projects, awards, achievements, etc. is via [LinkedIn](https://www.linkedin.com/in/johnplewe/) (feel free to add me there, my friend count is dismal), though it doesn't include some fun life highlights like getting surprise-offered a job by Valve's Gabe Newell in his office full of knives, or brought out by Apple to develop CameraBag on heavily-secured iPads at their HQ pre-launch.
 
 
-### About AIVX
+### about AIVX
 
 **AIVX** is my new solo company and label for my creative work. For now, it's focused around the new generative 3D engine I'm developing, which I'll use to build games, creative tools, virtual worlds, live DJ visualization apps, a holodeck, and much more. I'm very excited to get going with it. I have accounts on [X](x.com/aivx_io) and Instagram.
 
