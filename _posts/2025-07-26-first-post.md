@@ -11,7 +11,7 @@ You can check out my [About](/about/) page for more info on me, but long story s
 Now I'm building my [ideal platform for rapid game/app dev](/engine/) to get me to 100: 
 - entirely code-based (C#), no gui. all you need is 1 coder (human or ai) to make a game
 - everything is generated at runtime via procgen and ai, no complex asset pipeline or external apps
-- full creative control: the ai aspect is llm-guiding procgen, rather than diffusion-based generation
+- full creative control: the ai aspect is llm-guided procgen, rather than diffusion-based generation
 - single codebase deployable across steam/consoles, mobile, AR/VR, and eventually web
 - built atop Godot (essentially using it as a library) for constant free updates
 - designed for building apps as well as games
