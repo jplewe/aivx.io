@@ -6,5 +6,3 @@ I'm an [award-winning software+games dev](/about/), creating a new kind of [gene
 
 This site is brand new and coming in hot, sorry for the mess.
 
-
-### posts
