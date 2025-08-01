@@ -8,7 +8,7 @@ permalink: /about/
 
 email: hi at aivx.io  
 x/twitter: [aivx_io](https://www.x.com/aivx_io)  
-linkedin: [John Plewe](https://www.linkedin.com/in/johnplewe/)   
+linkedin: [john plewe](https://www.linkedin.com/in/johnplewe/)   
 instagram: [aivx_io](https://www.instagram.com/aivx_io)  
 
 
