@@ -4,6 +4,14 @@ title: about
 permalink: /about/
 ---
 
+### contact/socials
+
+email: hi at aivx.io.
+x/twitter: [aivx_io](https://www.x.com/aivx_io)
+linkedin: [John Plewe](https://www.linkedin.com/in/johnplewe/) 
+instagram: [aivx_io](https://www.instagram.com/aivx_io)
+
+
 ### about me
 
 I’m John Plewe, a creative software developer and occasional game designer. Most of my work has been at [Nevercenter](https://nevercenter.com) as part of a three-person startup (two devs). A good place to get an overview of my various projects, awards, achievements, etc. is via [LinkedIn](https://www.linkedin.com/in/johnplewe/) (feel free to add me there, my friend count is dismal), though it doesn't include some fun life highlights like getting surprise-offered a job by Valve's Gabe Newell in his office full of knives, or brought out by Apple to develop CameraBag on heavily-secured iPads at their HQ pre-launch.
