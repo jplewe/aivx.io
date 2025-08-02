@@ -6,7 +6,7 @@ permalink: /projects/
 
 [AIVX ENGINE](/engine/): A code-only, AI-native, fully-generative 3D engine built atop Godot. It's ideal for making games, apps, and infinite worlds, and ships from one codebase to consoles/desktop, mobile, and XR. The base layer for everything else.
 
-[AIVX CITY](/city/): An infinite cyberpunk metaverse, filled with AI-directed characters who will talk with you, play roles in quests, even hang out and play games. Every other game/app/experience can be launched from within the metaverse, at no additional cost to install size or performance.
+[AIVX CITY](/city/): An endless cyberpunk metaverse, populated with AI-directed characters who will talk with you, play roles in quests, even hang out and play games. Every other game/app/experience can be launched from within the metaverse, at no additional cost to install size or performance.
 
 [AIVX PUSH](/push/): A mesmerizing arcade puzzle game with ever-changing visuals. First game announced using the new engine. 
 
