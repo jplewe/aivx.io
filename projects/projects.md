@@ -10,6 +10,6 @@ permalink: /projects/
 
 [AIVX PUSH](/push/): A mesmerizing arcade puzzle game inspired by Tetris and Lumines, with ever-changing generative visuals which react to the music. First game announced using the new engine. 
 
-[AIVX CHAT](/chat/): A 3D-native AI companion capable of generating 3D visuals in response to prompts including dataviz, size comparisons, maps, and art. 
+[AIVX CHAT](/chat/): A 3D-native AI companion, capable of generating 3D visuals in response to prompts including dataviz, size comparisons, maps, and art. 
 
 
