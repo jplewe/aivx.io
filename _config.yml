@@ -9,6 +9,7 @@ minima:
     - projects/projects.md
     - blog.md
     - about.md
+    - funding.md
   social_links:
     - title: LinkedIn
       icon: linkedin
