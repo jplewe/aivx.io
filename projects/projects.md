@@ -14,4 +14,4 @@ permalink: /projects/
 
 AIVX ARTIST: A platform for musicians to easily generate, customize, and release visually-stunning 3D games and experiences based off of their work, providing a new form of revenue for artists.
 
-AIVX DESK: A holodeck, or more accurately a holodesk, which is formed from 180-degree sphere of monitors surrounding your workspace. Uses VR tracking techniques minus the bulky headset to update positionally as you move for a realistic effect, with a few options for 3D depth (slim glasses, 3d monitors, etc.)
+AIVX DESK: A holodeck, or more accurately a holodesk, which is formed from 180-degree sphere of screens/projection surrounding your workspace. Uses VR tracking techniques minus the bulky headset to update positionally as you move for a realistic effect, with a few options for 3D depth (slim glasses, 3d monitors, etc.)
