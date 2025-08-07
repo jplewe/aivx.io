@@ -5,7 +5,7 @@ permalink: /engine/
 nav: false
 ---
 
-Here's a Cursor-generated summary of my progress on the engine so far. (It's codenamed Wave internally.) All of this has been added on top of Godot.
+Here's a Cursor-generated summary of my progress on the engine (codenamed Wave internally) so far, based on Cursor's view of the project and what is currently implemented. All of this has been added on top of Godot.
 
 ## AIVX Engine - Interactive Experience Framework
 
