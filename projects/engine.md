@@ -5,17 +5,17 @@ permalink: /engine/
 nav: false
 ---
 
-Here's a Cursor-generated summary of my progress on the engine progress so far. All of this has been added on top of Godot.
+Here's a Cursor-generated summary of my progress on the engine progress so far. (It's codenamed Wave internally.) All of this has been added on top of Godot.
 
-# AIVX Engine - Interactive Experience Framework
+## AIVX Engine - Interactive Experience Framework
 
 A sophisticated game engine and application framework built in **Godot 4** using **C#**, designed for creating modular, extensible interactive experiences with a focus on visual and audio aesthetics.
 
-## 🎯 Project Overview
+## Project Overview
 
 AIVX Engine is a comprehensive framework that provides a unified platform for developing various types of games and applications. It features a modular architecture with shared infrastructure for common functionality, allowing developers to rapidly prototype and build interactive experiences.
 
-## 🏗️ Core Architecture
+## Core Architecture
 
 ### WaveOS - The Operating System Layer
 The central orchestrator that manages the entire application ecosystem:
@@ -42,7 +42,7 @@ Applications inherit from `WaveApp` and provide:
 - **State Management** - Game states, pause/resume functionality
 - **Input Handling** - App-specific input processing
 
-## 🔧 Key Systems
+## Key Systems
 
 ### Input System (WaveIn)
 - **Unified Input Mapping** - Supports keyboard, mouse, gamepad, and VR controllers
@@ -67,7 +67,7 @@ Applications inherit from `WaveApp` and provide:
 - **Video Playback** - Background video support
 - **Audio Visualization** - Real-time audio analysis
 
-## 🎨 Technical Features
+## Technical Features
 
 ### Shader System
 - **Custom Shaders** - hexdots, meta, skycolor, energyball effects
@@ -84,7 +84,7 @@ Applications inherit from `WaveApp` and provide:
 - **XR Input Mapping** - VR-specific input handling
 - **Stereoscopic Rendering** - VR-compatible rendering pipeline
 
-## 🔄 How It Works
+## How It Works
 
 1. **Startup** - `metagame.cs` initializes the system, creating a `WaveOS` instance
 2. **Launcher** - `LauncherApp` provides the main menu for selecting applications
@@ -93,7 +93,7 @@ Applications inherit from `WaveApp` and provide:
 5. **Rendering** - Custom shaders provide visual effects, with global shader parameters
 6. **Audio/Video** - Background systems provide ambient audio and video
 
-## 🚀 Development Philosophy
+## Development Philosophy
 
 The framework is designed for **rapid prototyping** and development of interactive experiences, with a focus on:
 
@@ -103,16 +103,12 @@ The framework is designed for **rapid prototyping** and development of interacti
 - **Extensibility** - Easy to add new applications and features
 - **Visual Appeal** - Rich shader system and visual effects
 
-## 🎯 Use Cases
+## Use Cases
 
 - **Game Development** - Rapid prototyping of various game types
 - **Interactive Art** - Visual and audio experiences
 - **Educational Tools** - Interactive learning applications
 - **VR Experiences** - Immersive virtual reality applications
 - **Audio Visualization** - Real-time audio analysis and visualization
-
----
-
-*Metagame represents a comprehensive approach to interactive experience development, providing the tools and infrastructure needed to create engaging, visually stunning applications with minimal boilerplate code.*
 
 
