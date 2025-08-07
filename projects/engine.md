@@ -7,7 +7,7 @@ nav: false
 
 Here's a Cursor-generated summary of my progress on the engine progress so far. (It's codenamed Wave internally.) All of this has been added on top of Godot.
 
-## AIVX Engine - Interactive Experience Framework
+# AIVX Engine - Interactive Experience Framework
 
 A sophisticated game engine and application framework built in **Godot 4** using **C#**, designed for creating modular, extensible interactive experiences with a focus on visual and audio aesthetics.
 
@@ -44,6 +44,14 @@ Applications inherit from `WaveApp` and provide:
 
 ## Key Systems
 
+### AI System (WaveAI)
+- **ChatGPT Integration** - Direct API integration with OpenAI's GPT models
+- **Function Calling** - Structured function schemas for data visualization
+- **Database Management** - AI-powered database selection and loading
+- **Presentation Generation** - Automated slide creation with narration
+- **Data Analysis** - AI-driven insights and statistical analysis
+- **Natural Language Interface** - Conversational interaction with the system
+
 ### Input System (WaveIn)
 - **Unified Input Mapping** - Supports keyboard, mouse, gamepad, and VR controllers
 - **Action-Based Input** - Abstracted input actions like "accept", "back", "action1"
@@ -67,6 +75,8 @@ Applications inherit from `WaveApp` and provide:
 - **Video Playback** - Background video support
 - **Audio Visualization** - Real-time audio analysis
 
+
+
 ## Technical Features
 
 ### Shader System
@@ -84,14 +94,17 @@ Applications inherit from `WaveApp` and provide:
 - **XR Input Mapping** - VR-specific input handling
 - **Stereoscopic Rendering** - VR-compatible rendering pipeline
 
+
+
 ## How It Works
 
 1. **Startup** - `metagame.cs` initializes the system, creating a `WaveOS` instance
 2. **Launcher** - `LauncherApp` provides the main menu for selecting applications
 3. **App Switching** - `WaveOS.LaunchApp<T>()` destroys current app and launches new one
 4. **Input Processing** - `WaveIn` processes all input and maps to abstract actions
-5. **Rendering** - Custom shaders provide visual effects, with global shader parameters
-6. **Audio/Video** - Background systems provide ambient audio and video
+5. **AI Integration** - `WaveAI` provides ChatGPT integration and function calling
+6. **Rendering** - Custom shaders provide visual effects, with global shader parameters
+7. **Audio/Video** - Background systems provide ambient audio and video
 
 ## Development Philosophy
 
@@ -102,6 +115,8 @@ The framework is designed for **rapid prototyping** and development of interacti
 - **Performance** - Optimized rendering and object management
 - **Extensibility** - Easy to add new applications and features
 - **Visual Appeal** - Rich shader system and visual effects
+- **AI Integration** - Seamless AI-powered features and natural language interaction
+- **Data Intelligence** - Automated data analysis and visualization generation
 
 ## Use Cases
 
@@ -110,5 +125,10 @@ The framework is designed for **rapid prototyping** and development of interacti
 - **Educational Tools** - Interactive learning applications
 - **VR Experiences** - Immersive virtual reality applications
 - **Audio Visualization** - Real-time audio analysis and visualization
+- **Data Visualization** - AI-powered data analysis and presentation generation
+- **Business Intelligence** - Automated report creation and data insights
+- **Research Tools** - Statistical analysis and data exploration
 
+---
 
+*AIVX Engine represents a comprehensive approach to interactive experience development, providing the tools and infrastructure needed to create engaging, visually stunning applications with minimal boilerplate code.*
