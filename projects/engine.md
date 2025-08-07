@@ -47,8 +47,6 @@ Applications inherit from `WaveApp` and provide:
 ### AI System (WaveAI)
 - **ChatGPT Integration** - Direct API integration with OpenAI's GPT models
 - **Function Calling** - Structured function schemas for data visualization
-- **Database Management** - AI-powered database selection and loading
-- **Presentation Generation** - Automated slide creation with narration
 - **Data Analysis** - AI-driven insights and statistical analysis
 - **Natural Language Interface** - Conversational interaction with the system
 
