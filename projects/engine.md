@@ -7,7 +7,7 @@ nav: false
 
 Here's a Cursor-generated summary of my progress on the engine progress so far. (It's codenamed Wave internally.) All of this has been added on top of Godot.
 
-# AIVX Engine - Interactive Experience Framework
+## AIVX Engine - Interactive Experience Framework
 
 A sophisticated game engine and application framework built in **Godot 4** using **C#**, designed for creating modular, extensible interactive experiences with a focus on visual and audio aesthetics.
 
