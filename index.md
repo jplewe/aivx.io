@@ -2,7 +2,25 @@
 layout: home
 ---
 
-I'm an [award-winning software+games dev](/about/), creating a new kind of [generative 3D engine](https://aivx.io/2025/07/26/first-post.html) to build games and apps extremely fast. You can follow my progress here via the [blog](/blog/) or on my [socials](/about). Very soon, you'll be able to wishlist the first game in the new engine, [AIVX PUSH](/push/), on Steam. Many other [projects](/projects) are in the works as well.
+At AIVX, we're building fully-generative 3D games, apps, and worlds, powered by new core technology.
 
-This site is brand new and coming in hot, sorry for the mess. I wanted to make something I wouldn't spend too much time trying to perfect.
+In the future, we believe:
+
+- Games and apps (even traditional 2D software) will be both AI-native and 3D-native, seamlessly cross-device between screens, XR, and beyond. 
+
+- They'll be small and lightweight, eschewing traditional art assets, and will generate themselves entirely at runtime.
+ 
+- They'll be extremely fast and cheap to develop, requiring only an idea and a single coder (human or AI). 
+
+To realize this future, we're building an AI-native procedural generation engine, an extremely fast and adaptable hybrid approach to 3D.
+
+Our first product is a mesmerizing puzzle game with ever-changing visuals, AIVX PUSH. A demo is coming soon to Steam, with future releases on mobile and XR. It serves as a proof of concept, generating all visuals and UI on-device at runtime.
+
+
+This site is brand new and coming hot, sorry for the mess.
+
+You can read more about the platform and future projects [here](/projects). 
+
+You can read more about the founder and company vision [here](/about).
+
 
