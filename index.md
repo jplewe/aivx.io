@@ -4,7 +4,7 @@ layout: home
 
 At AIVX, we're building fully-generative 3D games, apps, and worlds, powered by new core technology.
 
-In the future, we believe:
+In the future:
 
 - Games and apps (even traditional 2D software) will be both AI-native and 3D-native, seamlessly cross-device between screens, XR, and beyond. 
 
