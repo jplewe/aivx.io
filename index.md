@@ -4,7 +4,7 @@ layout: page
 
 At AIVX, we're building fully-generative 3D games, apps, and worlds, powered by new core technology.
 
-In the future:
+In the future, we believe:
 
 - Games and apps (even traditional 2D software) will be both AI-native and 3D-native, seamlessly cross-device between screens, XR, and beyond. 
 
@@ -16,11 +16,6 @@ To realize this future, we're building an AI-native procedural generation engine
 
 Our first product is a mesmerizing puzzle game with ever-changing visuals, AIVX PUSH. A demo is coming soon to Steam, with future releases on mobile and XR. It serves as a proof of concept, generating all visuals and UI on-device at runtime.
 
-
 This site is brand new and coming hot, sorry for the mess.
-
-You can read more about the platform and future projects [here](/projects). 
-
-You can read more about the founder and company vision [here](/about).
 
 
