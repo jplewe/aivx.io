@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 At AIVX, we're building fully-generative 3D games, apps, and worlds, powered by new core technology.
