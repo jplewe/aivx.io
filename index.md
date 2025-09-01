@@ -2,7 +2,7 @@
 layout: page
 title: welcome
 ---
-[about](/about/) | [projects](/projects/) | [blog](/blog/)
+[about](/about/) - [projects](/projects/) - [blog](/blog/)
 
 
 At AIVX, we're building 3D games, apps, and worlds, powered by new core technology.
