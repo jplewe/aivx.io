@@ -6,13 +6,13 @@ layout: page
 
 At AIVX, we're building 3D games, apps, and worlds, powered by new core technology.
 
-In the future, we believe:
+In the future, all games and apps (even traditional 2D software) will be:
 
-- All games and apps (even traditional 2D software) will be both AI-native and 3D-native, built on a new kind of core which allows seamless deployment across devices and displays (screens, XR, and beyond). 
+- both AI-native *and* 3D-native, built on a new kind of core which allows seamless deployment across all devices and displays (screens, XR, and beyond) 
 
-- They'll be small and lightweight, eschewing traditional art assets, and will generate themselves entirely at runtime.
+- small and lightweight, eschewing traditional art assets, and will generate themselves entirely at runtime
  
-- They'll be extremely fast and cheap to develop, requiring only an idea and a single coder (human or AI). 
+- extremely fast and cheap to develop, requiring only an idea and a single coder (human or AI) 
 
 To realize this future, we're developing an LLM-driven 3D procedural generation engine, a new approach to generative AI which is extremely fast and adaptable for real world use today.
 
