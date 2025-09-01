@@ -8,7 +8,7 @@ At AIVX, we're building 3D games, apps, and worlds, powered by new core technolo
 
 In the future, we believe:
 
-- Games and apps (even traditional 2D software) will be both AI-native and 3D-native, built on a new kind of core which allows seamless deployment across devices and displays (screens, XR, and beyond). 
+- All games and apps (even traditional 2D software) will be both AI-native and 3D-native, built on a new kind of core which allows seamless deployment across devices and displays (screens, XR, and beyond). 
 
 - They'll be small and lightweight, eschewing traditional art assets, and will generate themselves entirely at runtime.
  
