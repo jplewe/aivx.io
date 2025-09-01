@@ -5,7 +5,7 @@ title:
 [about](/about/) - [projects](/projects/) - [blog](/blog/)
 
 
-At AIVX, we're building fully-generative 3D games, apps, and worlds powered by a new core technology.
+At AIVX, we're building fully-generative 3D games, apps, and worlds, powered by a new core technology.
 
 In the future, we believe all games and apps (even traditional 2D software) will be:
 
