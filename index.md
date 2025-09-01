@@ -1,6 +1,6 @@
 ---
 layout: page
-title: generative 3d games, apps, and worlds
+title: 
 ---
 [about](/about/) - [projects](/projects/) - [blog](/blog/)
 
