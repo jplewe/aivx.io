@@ -10,7 +10,7 @@ In the future, all games and apps (even traditional 2D software) will be:
 
 - both AI-native *and* 3D-native, built on a new kind of core which allows seamless deployment across all devices and displays (screens, XR, and beyond) 
 
-- small and lightweight, eschewing traditional art assets, and will generate themselves entirely at runtime
+- small and lightweight, eschewing traditional art assets, generating themselves entirely at runtime
  
 - extremely fast and cheap to develop, requiring only an idea and a single coder (human or AI) 
 
