@@ -6,6 +6,7 @@ plugins:
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
   nav_pages:
+    - about.md
   social_links:
     - title: X (formerly Twitter)
       icon: x-twitter
