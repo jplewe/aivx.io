@@ -6,8 +6,7 @@ plugins:
 minima:
   skin: dark # or auto if you want it to switch with your system settings.
   nav_pages:
-    - projects/projects.md
-    - about.md
+    
   social_links:
     - title: LinkedIn
       icon: linkedin
